@@ -8,6 +8,9 @@
     "demo",
     "rails-api"
   ],
+  "scripts": {
+    "postdeploy": "bundle exec rake db:migrate db:seed"
+  },
   "addons": [],
   "env": {
     "LANG": "en_US.UTF-8",

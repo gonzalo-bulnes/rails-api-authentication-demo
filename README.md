@@ -16,7 +16,7 @@ rackup -p 3000 # see http://localhost:3000
 
 ### Heroku
 
-Click the button below to automatically set up the demo in an app running on your Heroku account. (Do not forget to seed the database `heroku run rake db:migrate db:seed` once the app has been deployed!)
+Click the button below to automatically set up the demo in an app running on your Heroku account.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
