@@ -7,3 +7,4 @@ gem 'spring', :group => :development
 gem 'sqlite3'
 
 gem 'devise', '~> 3.2'
+gem 'simple_token_authentication', '~> 1.0'
